@@ -5,3 +5,6 @@ def greet(name):
 if __name__ == "__main__":
     user_name = input("Enter your name: ")
     print(greet(user_name))
+
+def greet3(name):
+    return f"Hello again again, {name}! Welcome to GitHub."
