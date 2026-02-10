@@ -8,3 +8,5 @@ if __name__ == "__main__":
 
 def greet3(name):
     return f"Hello again again, {name}! Welcome to GitHub."
+def greet2(name):
+    return f"Hello again, {name}! Welcome to GitHub."
